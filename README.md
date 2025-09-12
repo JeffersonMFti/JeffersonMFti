@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🎯 Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, apaixonado por resolver problemas com tecnologia e aprender constantemente. Atualmente desenvolvendo habilidades em back-end com Python e explorando boas práticas de programação para criar soluções úteis e bem estruturadas.</h5>
+<h3 align="left">🎯 Estudante de Análise e Desenvolvimento de Sistemas em transição de carreira, apaixonado por resolver problemas com tecnologia e aprender constantemente. Atualmente desenvolvendo habilidades em back-end com Python e explorando boas práticas de programação para criar soluções úteis e bem estruturadas.</h3>
 
 ###
 
