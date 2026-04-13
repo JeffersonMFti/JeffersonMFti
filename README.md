@@ -70,7 +70,7 @@ Meu foco é transformar problemas reais em sistemas funcionais: chatbots self-ho
 | Projeto | O que faz | Stack |
 |---------|-----------|-------|
 | **ZapAgent** | Agente de atendimento via WhatsApp 100% self-hosted com RAG local. FAQ inteligente, escalação silenciosa, sync com Google Drive. Zero custo de LLM. | `FastAPI` `LangChain` `Ollama` `ChromaDB` `Redis` `Docker` |
-| **UrbLex** | Plataforma RAG de inteligência jurídica com busca semântica (vetores densos + BM25 + cross-encoder reranking). | `Claude API` `Qdrant` `FastAPI` `React` `AWS` |
+| **[JurisAI](https://github.com/JeffersonMFti/JurisAI)** | Plataforma RAG de inteligência jurídica self-hosted com 7 workflows n8n: ingestão automática, chat fundamentado com citação de fontes, produção de documentos, controle de vigência normativa e feedback loop contínuo. | `n8n` `Claude API` `Qdrant` `Supabase` `Docker` `Nginx` |
 | **Dra. Julia** | Agente IA multimodal para advocacia: análise de docs (GPT-4 Vision), transcrição de áudios (Whisper), geração de contratos. 99,5% taxa de resposta. | `N8N` `GPT-4` `Whisper` `WhatsApp API` |
 | **CONECTA** | Categorização inteligente de 28.500+ SKUs com 100% de precisão. Pipeline ETL com validação multicamada. | `OpenAI GPT-4` `Pandas` `FastAPI` |
 
