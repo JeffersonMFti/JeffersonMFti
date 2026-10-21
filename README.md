@@ -6,7 +6,7 @@ Construo agentes de IA, sistemas RAG e automações que rodam em produção para
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonmonteiropy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefferson.figueira@gmail.com)
-[![Website](https://img.shields.io/badge/chatagente.com.br-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chatagente.com.br)
+[![Website](https://img.shields.io/badge/chatagente.com.br-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vetoracrm.com)
 
 ---
 
